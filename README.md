@@ -19,7 +19,7 @@
 
 ## About The Project
 
-Location based web app that allows users to watch a hidden video if you are near the landmark.
+Location based web app that allows users to watch a hidden video if they are near the landmark.
 
 ### Built With
 
